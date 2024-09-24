@@ -1,3 +1,5 @@
-gradio==3.0.0           # Adjust to the specific version you're using
-opencv-python-headless   # For image processing
-pytesseract             # For OCR
+gradio                # For creating the web interface
+opencv-python-headless # For image processing (OpenCV without GUI features)
+pytesseract          # For Optical Character Recognition (OCR)
+numpy                 # For numerical operations (often used with image processing)
+Pillow                # For image handling and manipulation
