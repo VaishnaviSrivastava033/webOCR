@@ -25,9 +25,9 @@ This project is a web-based Optical Character Recognition (OCR) and document sea
 
 ### Clone the Repository
 ```bash
-git clone <:https://lnkd.in/gF4zjK3M>
+git clone <:https://github.com/VaishnaviSrivastava033/webOCR.git>
 
-# Create a virtual environment (optional but recommended)
+**# Create a virtual environment (optional but recommended)**
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
